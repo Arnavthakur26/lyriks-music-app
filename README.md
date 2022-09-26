@@ -2,7 +2,7 @@
 
 This is a fully-functional and Responsive music streaming app made using React.Js,,React-Route,Redux,Tailwind CSS and Vite.
 
-#### Live Site: (https://lyriks-music-app.netlify.app/)[https://lyriks-music-app.netlify.app/]
+#### Live Site: [https://lyriks-music-app.netlify.app/](https://lyriks-music-app.netlify.app/)
 
 ## Table of contents
 
